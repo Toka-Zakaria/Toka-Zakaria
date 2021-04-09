@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Eectronics and Electrical communication
 - 💞️ I’m looking to collaborate on Embedded Projects
 - 📫 How to reach me:
-           - mail: tokazakaria99@gmail.com
+                 -mail: tokazakaria99@gmail.com
 
 <!---
 Toka-Zakaria/Toka-Zakaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
