@@ -7,7 +7,7 @@ Embedded Syaytems and looking to work in this industry
 ### 📫 Contacts: 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Toka Zakaria-%233077B5.svg?=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/tokazakaria) <img alt="Gmail" src="https://img.shields.io/badge/tokazakaria99@gmail.com-D14836?=for-the-badge&logo=gmail&logoColor=white" />
  >________________________________________________________________________________________________________
- ### 📝 Resume:
+ ### 📝 CV:
  [![Capture](https://user-images.githubusercontent.com/75904835/124944583-bae99900-e00d-11eb-825b-d66f8f389fdc.PNG)
 ](https://drive.google.com/file/d/1xkutCz7IbHyKpDH9Gpt-zNH8mobKs99x/view?usp=sharing)
 
