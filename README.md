@@ -1,7 +1,7 @@
  ### Hi, I’m Toka  
 >_________________________________________________________________________________________________________
 ### 💻 About: 
-Senior student at Electronics and Electrical Communication deparetement in Cairo UNI, Intrested in 
+Senior student at Electronics and Electrical Communication deparetement in Cairo UNI, Interested in 
 Embedded Syaytems and looking to work in this industry
 >_________________________________________________________________________________________________________
 ### 📫 Contacts: 
