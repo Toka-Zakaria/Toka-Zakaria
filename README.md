@@ -9,7 +9,7 @@ Embedded Syaytems and looking to work in this industry
  >________________________________________________________________________________________________________
  ### 📝 CV:
  [![Capture](https://user-images.githubusercontent.com/75904835/124944583-bae99900-e00d-11eb-825b-d66f8f389fdc.PNG)
-](https://drive.google.com/file/d/1xkutCz7IbHyKpDH9Gpt-zNH8mobKs99x/view?usp=sharing)
+](https://drive.google.com/file/d/1vgDZ8M8WoLxgONAUfbSvEC4vf42aCdqp/view?usp=sharing)
 
 
 
