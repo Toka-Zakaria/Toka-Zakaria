@@ -9,13 +9,7 @@ Embedded Syaytems and looking to work in this industry
  >________________________________________________________________________________________________________
  ### 📝 CV:
  [![Capture](https://user-images.githubusercontent.com/75904835/125861885-18d64e2f-3584-45ec-bcfd-06aaba299be8.PNG)
-](https://drive.google.com/file/d/1vgDZ8M8WoLxgONAUfbSvEC4vf42aCdqp/view?usp=sharing)
-
-
-
-
-
-
+](https://drive.google.com/file/d/1-Mxu5mAdsY-yOsa9inJ0UVG2RXEXxkAq/view?usp=drivesdk)
 
 <!---
 - 👋 Hi, I’m Toka Zakaria
