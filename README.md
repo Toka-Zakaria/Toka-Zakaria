@@ -11,13 +11,13 @@ Embedded Syaytems and looking to work in this industry
 [![Toka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toka-Zakaria&show_icons=true&theme=radical&include_all_commits=true&hide=prs,issues,contribs)](https://github.com/Toka-Zakaria)
  >________________________________________________________________________________________________________
  ### 📝 CV:
- [![Capture](https://user-images.githubusercontent.com/75904835/125861885-18d64e2f-3584-45ec-bcfd-06aaba299be8.PNG)
-](https://drive.google.com/file/d/1-Mxu5mAdsY-yOsa9inJ0UVG2RXEXxkAq/view?usp=drivesdk)
+ [![Capture3](https://user-images.githubusercontent.com/75904835/134784558-b3927032-271c-4b42-95d7-6f5c4fe23df1.PNG)](https://drive.google.com/file/d/1-Mxu5mAdsY-yOsa9inJ0UVG2RXEXxkAq/view?usp=drivesdk)
 
 
 
 <!---
-- 👋 Hi, I’m Toka Zakaria
+- 👋 Hi, I’m Toka Zakaria![Capture2](https://user-images.githubusercontent.com/75904835/134784485-8fb41669-7872-45e0-a8ce-ddf8f26a6541.PNG)
+![Capture](https://user-images.githubusercontent.com/75904835/125861885-18d64e2f-3584-45ec-bcfd-06aaba299be8.PNG)
 - 👀 I’m interested in Embedded Systems
 - 🌱 I’m currently learning Eectronics and Electrical communication
 - 💞️ I’m looking to collaborate on Embedded Projects
