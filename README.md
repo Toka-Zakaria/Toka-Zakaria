@@ -11,8 +11,7 @@ Embedded Syaytems and Automotive
 [![Toka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toka-Zakaria&show_icons=true&theme=radical&hide=prs,issues,contribs&include_all_commits=true)](https://github.com/Toka-Zakaria)
  >________________________________________________________________________________________________________
  ### 📝 CV:
- [![cap](https://user-images.githubusercontent.com/75904835/136469753-cc2c5b0a-363d-4a98-b50b-53ef7e4add9c.PNG)]
- (https://drive.google.com/file/d/1YA68D8yWj-dhE7BEC3jvNiZ_0la9BBky/view?usp=sharing)
+ [![cap](https://user-images.githubusercontent.com/75904835/136469753-cc2c5b0a-363d-4a98-b50b-53ef7e4add9c.PNG)](https://drive.google.com/file/d/1YA68D8yWj-dhE7BEC3jvNiZ_0la9BBky/view?usp=sharing)
 
 
 
