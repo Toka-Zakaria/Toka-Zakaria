@@ -16,7 +16,7 @@
 
 
 >_________________________________________________________________________________________________________
-### 📫 Contacts: 
+### 📫 My Contacts: 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Toka Zakaria-%233077B5.svg?=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tokazakaria/) [<img alt="Gmail" src="https://img.shields.io/badge/tokazakaria99@gmail.com-D14836?=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/1/?pli=1)
 >__________________________________________________________________________________________________________
 ### :fire: My GitHub Stats:
