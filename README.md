@@ -14,11 +14,7 @@
 
 - My Graduation Project is mentored by Swift ACT LLC  <img src="https://user-images.githubusercontent.com/75904835/163724031-cb4f5afc-ac38-4439-b30e-76f8c6fbb29e.jpg" width="40">
 
-![d4tvukbt5mra37cvwklk]()
 
-![JXA0](https://user-images.githubusercontent.com/75904835/163724344-271703fe-f8da-41f2-9741-a8b2815b7b38.gif)
-
-https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 >_________________________________________________________________________________________________________
 ### 📫 Contacts: 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Toka Zakaria-%233077B5.svg?=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tokazakaria/) [<img alt="Gmail" src="https://img.shields.io/badge/tokazakaria99@gmail.com-D14836?=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/1/?pli=1)
@@ -60,4 +56,9 @@ https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
                  -mail: tokazakaria99@gmail.com
 Toka-Zakaria/Toka-Zakaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+![d4tvukbt5mra37cvwklk]()
+
+![JXA0](https://user-images.githubusercontent.com/75904835/163724344-271703fe-f8da-41f2-9741-a8b2815b7b38.gif)
+
+https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
 --->
