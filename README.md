@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/75904835/163724367-baf5fb18-5c1b-406a-ba74-5a02f5b6af5d.gif" width="290" />
+  <img src="https://user-images.githubusercontent.com/75904835/163724367-baf5fb18-5c1b-406a-ba74-5a02f5b6af5d.gif" width="400" height="300" />
 </div>
 
 ### :woman_technologist: About Me 
