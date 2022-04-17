@@ -1,19 +1,19 @@
 
+
 <h1 id="header" align="center">
-  Hi, I'm Toka
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48px"/><img src="https://github.com/Toka-Zakaria/ReadME_Updates/blob/main/Personal.svg">
 </h1>
+
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/75904835/163724367-baf5fb18-5c1b-406a-ba74-5a02f5b6af5d.gif" width="400" height="300" />
 </div>
 
-### :woman_technologist: About Me 
+### :woman_technologist: About Me: 
 - I am an Embedded Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Egypt <img src="https://user-images.githubusercontent.com/75904835/163723532-590106f1-7acb-41cc-888c-d63e9599cf9d.gif" width="40"> 
 
 - Senior student at Faculty of Engineering, Cairo University 
 
 - My Graduation Project is mentored by Swift ACT LLC  <img src="https://user-images.githubusercontent.com/75904835/163724031-cb4f5afc-ac38-4439-b30e-76f8c6fbb29e.jpg" width="40">
-
 
 >_________________________________________________________________________________________________________
 ### 📫 My Contacts: 
@@ -41,7 +41,17 @@
  ### 📝 My CV:
  [![cap](https://user-images.githubusercontent.com/75904835/136469753-cc2c5b0a-363d-4a98-b50b-53ef7e4add9c.PNG)](https://drive.google.com/file/d/14YrsdoG4VP8nmbl8S3P1p_4gIDrdTKl4/view?usp=sharing)
 
- 
+
+</h1>
+<div id="header" align="center">
+<img src="https://github.com/Toka-Zakaria/ReadME_Updates/blob/main/Bye.svg" >
+</h1>
+
+
+
+
+
+
 
 
 <!---
