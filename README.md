@@ -20,7 +20,7 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Toka Zakaria-%233077B5.svg?=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/tokazakaria/) [<img alt="Gmail" src="https://img.shields.io/badge/tokazakaria99@gmail.com-D14836?=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/1/?pli=1)
 >__________________________________________________________________________________________________________
 ### :fire: My GitHub Stats:
-[![Toka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toka-Zakaria&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/Toka-Zakaria) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toka-Zakaria&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Toka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toka-Zakaria&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/Toka-Zakaria) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toka-Zakaria&layout=compact&theme=midnight-purple)](https://github.com/Toka-Zakaria)
 >__________________________________________________________________________________________________________
 ### :hammer_and_wrench: Languages and Tools:
 <div>
