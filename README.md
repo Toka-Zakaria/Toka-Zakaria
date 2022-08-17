@@ -1,11 +1,11 @@
 
 
 <h1 id="header" align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48px"/><img src="https://github.com/Toka-Zakaria/ReadME_Updates/blob/main/Personal.svg">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><img src="https://github.com/Toka-Zakaria/ReadME_Updates/blob/main/Personal.svg">
 </h1>
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/75904835/163724367-baf5fb18-5c1b-406a-ba74-5a02f5b6af5d.gif" width="400" height="300" />
+  <img src="https://user-images.githubusercontent.com/75904835/163724367-baf5fb18-5c1b-406a-ba74-5a02f5b6af5d.gif" width="200" height="200" />
 </div>
 
 ### :woman_technologist: About Me: 
@@ -39,7 +39,7 @@
 
  >________________________________________________________________________________________________________
  ### 📝 My CV:
- [![cap](https://user-images.githubusercontent.com/75904835/136469753-cc2c5b0a-363d-4a98-b50b-53ef7e4add9c.PNG)](https://drive.google.com/file/d/14YrsdoG4VP8nmbl8S3P1p_4gIDrdTKl4/view?usp=sharing)
+ [![cap](https://user-images.githubusercontent.com/75904835/136469753-cc2c5b0a-363d-4a98-b50b-53ef7e4add9c.PNG)]( https://drive.google.com/file/d/1YapOne99HHFw9oMuFuHUh8W-jJcfD-9l/view?usp=drivesdk )
 
 
 </h1>
